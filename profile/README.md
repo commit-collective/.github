@@ -18,6 +18,7 @@ An audio visual project: boxes for the booth, mods for the gear you own, visuals
 ## Repositories
 
 - [djs1000-emu](https://github.com/commit-collective/djs1000-emu): the DJS-1000's own application running on your computer, with a virtual deck.
+- [deckbench](https://github.com/commit-collective/deckbench): simulated CDJs and mixers on a network, with a web page to drive them, for testing what talks Pro DJ Link.
 
 ## A note
 
