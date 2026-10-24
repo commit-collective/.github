@@ -25,7 +25,7 @@ An audio visual project: boxes for the booth, mods for the gear you own, visuals
 Upcoming, not public yet:
 
 - cc.BufferBox: a looper for the booth that speaks MIDI and Pro DJ Link, for quantized input monitoring.
-- Phonoscope: a TouchDesigner instrument for live audio reactive visuals, driven from a DJ mixer.
+- cc.Phonoscope: a TouchDesigner instrument for live audio reactive visuals, driven from a DJ mixer.
 
 ## The name
 
