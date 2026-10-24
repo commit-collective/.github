@@ -29,7 +29,7 @@ Upcoming, not public yet:
 
 ## The name
 
-To commit is to follow through. We pick something, work on it a step at a time, in the open, and see it shipped. It is also what you do in git.
+Commit as in commitment: we pick something, work on it a step at a time, in the open, and see it through. It has nothing to do with `git commit`.
 
 ## A note
 
