@@ -19,8 +19,22 @@ An audio visual project: boxes for the booth, mods for the gear you own, visuals
 
 ## Repositories
 
-- [djs1000-emu](https://github.com/commit-collective/djs1000-emu): the DJS-1000's own application running on your computer, with a virtual deck.
-- [deckbench](https://github.com/commit-collective/deckbench): simulated CDJs and mixers on a network, with a web page to drive them, for testing what talks Pro DJ Link.
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/commit-collective/djs1000-emu"><img src="https://commitcollective.cc/djs1000/emulator/hero.png" alt="djs1000-emu: the virtual deck beside the app's screen and the list of mods" width="100%"></a>
+<br>
+<b><a href="https://github.com/commit-collective/djs1000-emu">djs1000-emu</a></b><br>
+The DJS-1000's own application running on your computer, with a virtual deck.
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/commit-collective/deckbench"><img src="https://commitcollective.cc/deckbench/hero.png" alt="deckbench: four simulated decks on air, with their beat strips and the events list" width="100%"></a>
+<br>
+<b><a href="https://github.com/commit-collective/deckbench">deckbench</a></b><br>
+Simulated CDJs and mixers on a network, with a web page to drive them, for testing what talks Pro DJ Link.
+</td>
+</tr>
+</table>
 
 Upcoming, not public yet:
 
