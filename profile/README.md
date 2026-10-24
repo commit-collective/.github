@@ -29,7 +29,7 @@ Upcoming, not public yet:
 
 ## The name
 
-Commit as in commitment: we pick something, work on it a step at a time, in the open, and see it through. It has nothing to do with `git commit`.
+Commit as in commitment, led by creativity. We pick something, work on it a step at a time, in the open, and see it through. It has nothing to do with `git commit`.
 
 ## A note
 
