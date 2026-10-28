@@ -10,8 +10,8 @@ An audio visual project: boxes for the booth, mods for the gear you own, visuals
 
 ## What we make
 
+- **Mods and tools**: [DJS-1000 mods](https://commitcollective.cc/djs1000/mods/) load from a USB stick without firmware flashing. The [emulator](https://github.com/commit-collective/djs1000-emu) runs the real app with an optional virtual deck or scripted off-screen UI. [deckbench](https://github.com/commit-collective/deckbench) supplies simulated decks and mixers for network tests.
 - **Hardware**: boxes for the booth, a looper (cc.BufferBox) and an interop box (cc.LinkBox). In progress.
-- **Mods**: more from the gear you own. The [DJS-1000 mods](https://commitcollective.cc/djs1000/) load from a USB stick and change nothing in the unit. The [emulator](https://github.com/commit-collective/djs1000-emu) runs the DJS-1000's own application on your computer, to try them first.
 - **Visual**: visuals and lighting, built in TouchDesigner.
 - **Music**: mixes and releases.
 - **Live**: streams, and the Electronic Timeline podcast.
@@ -40,10 +40,6 @@ Upcoming, not public yet:
 
 - cc.BufferBox: a looper for the booth that speaks MIDI and Pro DJ Link, for quantized input monitoring.
 - cc.Phonoscope: a TouchDesigner instrument for live audio reactive visuals, driven from a DJ mixer.
-
-## The name
-
-Commit as in commitment, led by creativity. We pick something, work on it a step at a time, in the open, and see it through. It has nothing to do with `git commit`.
 
 ## A note
 
