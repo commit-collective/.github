@@ -10,7 +10,8 @@ An audio visual project: boxes for the booth, mods for the gear you own, visuals
 
 ## What we make
 
-- **Mods and tools**: [DJS-1000 mods](https://commitcollective.cc/djs1000/mods/) load from a USB stick without firmware flashing. The [emulator](https://github.com/commit-collective/djs1000-emu) runs the real app with an optional virtual deck or scripted off-screen UI. [deckbench](https://github.com/commit-collective/deckbench) supplies simulated decks and mixers for network tests.
+- **Mods**: [DJS-1000 mods](https://commitcollective.cc/djs1000/mods/) load from a USB stick without firmware flashing. The [DJS-1000 emulator](https://github.com/commit-collective/djs1000-emu) runs the real app with an optional virtual deck or scripted off-screen UI.
+- **Software**: [Deckbench](https://github.com/commit-collective/deckbench) supplies simulated decks and mixers for network tests. cc.Stencil, a spectral effects plugin, is in progress.
 - **Hardware**: boxes for the booth, a looper (cc.BufferBox) and an interop box (cc.LinkBox). In progress.
 - **Visual**: visuals and lighting, built in TouchDesigner.
 - **Music**: mixes and releases.
@@ -28,7 +29,7 @@ An audio visual project: boxes for the booth, mods for the gear you own, visuals
 The DJS-1000's own application running on your computer, with a virtual deck.
 </td>
 <td width="42%" valign="top">
-<a href="https://github.com/commit-collective/deckbench"><img src="https://commitcollective.cc/deckbench/hero.png" alt="deckbench: four simulated decks on air, with their beat strips and the events list" width="100%"></a>
+<a href="https://github.com/commit-collective/deckbench"><img src="https://commitcollective.cc/deckbench/hero.png" alt="Deckbench: four simulated decks on air, with their beat strips and the events list" width="100%"></a>
 <br>
 <b><a href="https://github.com/commit-collective/deckbench">deckbench</a></b><br>
 Simulated CDJs and mixers on a network, with a web page to drive them, for testing what talks Pro DJ Link.
@@ -40,6 +41,7 @@ Upcoming, not public yet:
 
 - cc.BufferBox: a looper for the booth that speaks MIDI and Pro DJ Link, for quantized input monitoring.
 - cc.Phonoscope: a TouchDesigner instrument for live audio reactive visuals, driven from a DJ mixer.
+- cc.Stencil: an audio plugin that places effects on the spectrum with EQ shapes.
 
 ## A note
 
