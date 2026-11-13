@@ -22,13 +22,13 @@ An audio visual project: boxes for the booth, mods for the gear you own, visuals
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="50%" valign="top">
 <a href="https://github.com/commit-collective/djs1000-emu"><img src="https://commitcollective.cc/djs1000/emulator/hero.png" alt="DJS-1000 emulator: the virtual deck beside the app's screen and the list of mods" width="100%"></a>
 <br>
 <b><a href="https://github.com/commit-collective/djs1000-emu">DJS-1000 emulator</a></b><br>
 The DJS-1000's own application running on your computer, with a virtual deck.
 </td>
-<td width="42%" valign="top">
+<td width="50%" valign="top">
 <a href="https://github.com/commit-collective/deckbench"><img src="https://commitcollective.cc/deckbench/hero.png" alt="Deckbench: three simulated decks above a CDJ-3000, a CDJ-2000NXS2 and an XDJ-1000MK2 on the network, with their waveforms and the events list" width="100%"></a>
 <br>
 <b><a href="https://github.com/commit-collective/deckbench">Deckbench</a></b><br>
