@@ -29,10 +29,10 @@ An audio visual project: boxes for the booth, mods for the gear you own, visuals
 The DJS-1000's own application running on your computer, with a virtual deck.
 </td>
 <td width="42%" valign="top">
-<a href="https://github.com/commit-collective/deckbench"><img src="https://commitcollective.cc/deckbench/hero.png" alt="Deckbench: four simulated decks on air, with their beat strips and the events list" width="100%"></a>
+<a href="https://github.com/commit-collective/deckbench"><img src="https://commitcollective.cc/deckbench/hero.png" alt="Deckbench: three simulated decks above a CDJ-3000, a CDJ-2000NXS2 and an XDJ-1000MK2 on the network, with their waveforms and the events list" width="100%"></a>
 <br>
 <b><a href="https://github.com/commit-collective/deckbench">Deckbench</a></b><br>
-Simulated CDJs and mixers on a network, with a web page to drive them, for testing what talks Pro DJ Link.
+Simulated CDJs and mixers on a network, and a web page that drives them and shows the real players, for testing what talks Pro DJ Link.
 </td>
 </tr>
 </table>
